@@ -1,6 +1,6 @@
 Hi there 👋
-🚀 About Me
-I’m a passionate and curious problem-solver who loves building smart, efficient, and user-friendly solutions with code. I’m currently deepening my knowledge in Python, Object-Oriented Programming, and software design patterns, while also exploring the worlds of data structures, algorithms, and developer tools.
+
+My name is Cornel and I’m a passionate and curious problem-solver who loves building smart, efficient, and user-friendly solutions with code. I’m currently deepening my knowledge in Python, Object-Oriented Programming, and software design patterns, while also exploring the worlds of data structures, algorithms, and developer tools.
 
 I am a continuous learner and I love sharing what I discover and I often add these personal projects and experiments across my repos.
 
